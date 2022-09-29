@@ -1,9 +1,6 @@
 <h1>Hi 👋, I'm Chezil</h1>
 <h3>A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chezilraj&label=Profile%20views&color=0e75b6&style=flat" alt="chezilraj" /> </p>
-
-<p align="left"> <a href="https://twitter.com/chezilraj" target="blank"><img src="https://img.shields.io/twitter/follow/chezilraj?logo=twitter&style=for-the-badge" alt="chezilraj" /></a> </p>
 
 - 💬 Ask me about **VueJS, NuxtJS, HTML5, CSS3, SCSS**
 
