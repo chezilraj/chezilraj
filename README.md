@@ -12,8 +12,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chezilraj&show_icons=true&locale=en&layout=compact" alt="chezilraj" /></p>
 
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chezilraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chezilraj" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/chezilraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chezilraj" height="20" width="30" /></a>
 </p>
+ </div>
